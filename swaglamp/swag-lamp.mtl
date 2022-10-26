@@ -1,0 +1,44 @@
+
+newmtl ReflectiveC27D3A
+Kd  0.7607843 0.4901961 0.227451
+Ks  0.8 0.8 0.8
+Ka  0 0 0
+d  1
+Ns  925
+illum 5
+
+
+
+
+newmtl CartoonFFFFFF
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl CartoonFF0A08
+Kd  1 0.03921569 0.03137255
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl CartoonFF1100
+Kd  1 0.06666667 0
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
